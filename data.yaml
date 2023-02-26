@@ -1,0 +1,5 @@
+train: ./train_ja/images
+val: ./valid_ja/images
+
+nc: 1
+names: ['wallcrack']
